@@ -1,26 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
 
-*{
+* {
     margin:0;
-    padding:0;
+    padding:10px;
     border:0;
+    box-sizing: border-box
 }
 
-body{
+body {
     font-family: Roboto, Open Sans Condensed;
     color: #3a3a3a;
+
 }
 
 /* headings and logo */
 
-h1, h2{
+h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #141414;
 }
 
-#logo{
+#logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
@@ -28,12 +30,12 @@ h1, h2{
 
 /* navigation links */
 
-#top-menu{
+#top-menu {
     font-size: 150%;
     letter-spacing: 10px;
 }
 
-#logo, #top-menu{
+#logo, #top-menu {
     line-height: 100px;
 }
 
@@ -48,35 +50,51 @@ h1, h2{
     color: inherit;
 }
 
-#top-menu a:hover{
+#top-menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
 
-.active{
+.active {
     border-bottom: 1px solid #3a3a3a;
 }
 
 /* Car meet image and main text */
 
-#meet-outer{
+#meet-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#meet-image{
+#meet-image {
     height: 600px;
     width: 100%;
     background: url(../images/valdemaras-januska-igaoYBHBDws-unsplash.jpg) no-repeat center center;
     background-size: cover;
 }
 
-#what-we-do{
-    padding-top: 30px;
-    padding-left: 30px;
+#quote {
+    padding: 30px;
     width: inherit;
     text-align: center;
+}
 
-    
+#what-we-do {
+    padding: 30px;
+    width: inherit;
+    text-align: left;
+    font-size: 150%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 30px;
+    height: 300px;
+    border: 1px solid #3a3a3a;
+    font-size: 150%;
+    text-align: center;
+    vertical-align: middle;
+    grid-gap: 10px 10px;
 }
