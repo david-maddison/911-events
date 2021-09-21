@@ -6,11 +6,16 @@
 
 ## Features 
 
-Home page - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
-About page - This page explains who is responsible for the website and why it was setup.
-News page - This page will provide links to articles and videos all relating to the Porsche 911.
-Events page - This page will provide links to recent events and future planned events related to the Porsche 911.
-Join Us page - This will give the user the chance to complete a short form in order to join the 911 Events mailing list.
+Home - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
+
+About - This page explains who is responsible for the website and why it was setup.
+
+News - This page will provide links to articles and videos all relating to the Porsche 911.
+
+Events - This page will provide links to recent events and future planned events related to the Porsche 911.
+
+Join Us - This will give the user the chance to complete a short form in order to join the 911 Events mailing list.
+
 Contact - This will provide contact details for users to get in touch with the owners of the site.
 
 
@@ -18,59 +23,34 @@ Contact - This will provide contact details for users to get in touch with the o
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, the full responsive navigation bar includes links to the Home, About, News, Events, Join Us and Contact pages. The Navigation Bar is identical on all pages to allow for easy navigation by its users.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](Add image navigation-bar.png)
 
-- __The landing page image__
+- __The main page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The main page includes a photograph of three classic Porsche 911's at a meetup. This gives the user a clear indication of the intent of the website, and will provide  
+  - This section also includes a quote from Ferdinad
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Landing Page](https://github.com/david-maddison/911-events/blob/main/assets/images/valdemaras-januska-igaoYBHBDws-unsplash.jpg)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for 911 Events. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/david-maddison/911-events/blob/main/assets/images/footer.PNG)
 
-- __Gallery__
+- __Join Us Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This page will allow the user to get signed up to 911 Events to engage and take part in upcoming events. The user will be able to confirm if they are an owner or enthusiast. This will allow 911 Events to gauge how many 911 owners are on the mailing list. The user will be asked to submit their full name and email address. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Join Us](Add an image of the join us page)
 
 ### Features Left to Implement
 
-- Another feature idea
+- tbc....
 
 ## Testing 
 
@@ -103,7 +83,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://david-maddison.github.io/911-events/ 
 
 
 ## Credits 
