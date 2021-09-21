@@ -1,14 +1,18 @@
-# Love Running
+# 911 Events
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+911 Events is a website designed to service Porsche 911 owners and enthusiasts with UK events and news relating to the Porsche 911. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](Add AM I RESPONSIVE? images as PNG files)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Home page - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
+About page - This page explains who is responsible for the website and why it was setup.
+News page - This page will provide links to articles and videos all relating to the Porsche 911.
+Events page - This page will provide links to recent events and future planned events related to the Porsche 911.
+Join Us page - This will give the user the chance to complete a short form in order to join the 911 Events mailing list.
+Contact - This will provide contact details for users to get in touch with the owners of the site.
+
 
 ### Existing Features
 
