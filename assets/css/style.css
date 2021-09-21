@@ -134,3 +134,37 @@ h1, h2 {
     background-color: #4CAF50;
     color: white;
 }
+
+/* footer links */
+
+#bottom-menu {
+    font-size: 150%;
+    letter-spacing: 10px;
+}
+
+#bottom-menu li {
+    float: right;
+    position: relative;
+    left: -50%;
+    text-align: center;
+    list-style-type: none;
+}
+
+#bottom-menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#bottom-menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.social-media {
+    text-align: center;
+    size: 400px;
+}
+
+.copyright {
+    text-align: center;
+    size: inherit;
+}
