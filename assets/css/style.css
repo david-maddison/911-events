@@ -70,7 +70,7 @@ h1, h2 {
 #meet-image {
     height: 600px;
     width: 100%;
-    background: url(../images/valdemaras-januska-igaoYBHBDws-unsplash.jpg) no-repeat center center;
+    background: url(../images/hero.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -140,12 +140,11 @@ h1, h2 {
 #bottom-menu {
     font-size: 150%;
     letter-spacing: 10px;
+    text-align: center;
 }
 
 #bottom-menu li {
-    float: right;
-    position: relative;
-    left: -50%;
+    display: inline-block;
     text-align: center;
     list-style-type: none;
 }
