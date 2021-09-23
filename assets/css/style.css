@@ -168,7 +168,7 @@ h1, h2 {
     size: inherit;
 }
 
-/* about us */
+/* about us page */
 
 #about-us {
     padding: 30px;
@@ -184,7 +184,7 @@ h1, h2 {
     background-size: cover;
 }
 
-/* contact us */
+/* contact us page */
 
 #contact-us {
     padding: 30px;
@@ -198,3 +198,29 @@ h1, h2 {
     width: 100%;
     background: url(../images/contact-us.png) no-repeat center center;
     background-size: cover;
+}
+
+/* events page */
+
+#events {
+    padding: 30px;
+    width: inherit;
+    text-align: left;
+    font-size: 150%;
+}
+
+#event-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/events.png) no-repeat center center;
+    background-size: cover;
+}
+
+.events-grid {
+    height: 190vh;
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px 10px;
+}
