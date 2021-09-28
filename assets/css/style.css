@@ -337,6 +337,13 @@ input[type="submit"] {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    * {
+        margin: 0;
+        padding: 6px;
+        border: 0;
+        box-sizing: border-box
+    }
+        
     #logo, #top-menu {
         line-height: 40px;
     }
