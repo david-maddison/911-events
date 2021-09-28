@@ -344,6 +344,10 @@ input[type="submit"] {
         box-sizing: border-box
     }
         
+    h1, h2 {
+        letter-spacing: 5px;
+    }
+    
     #logo, #top-menu {
         line-height: 40px;
     }
