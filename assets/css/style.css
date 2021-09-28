@@ -30,6 +30,7 @@ a:active {
 a:visited {
     color: unset;
 }
+
 /* headings and logo */
 
 h1, h2 {
@@ -75,7 +76,7 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Car meet image and main text */
+/* Hero image and home page text */
 
 #meet-outer {
     height: 600px;
@@ -332,10 +333,172 @@ input[type="submit"] {
     font-size: .8em;
 }
 
-@media screen and (min-width: 1100px) {
+/* Responsiveness */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #logo, #top-menu {
+        line-height: 40px;
+    }
+    
+    #top-menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 0px;
+        font-size: 19px;
+        padding: 0px;
+        letter-spacing: 0px;
+    }
+
+    #meet-outer {
+        height: 300px;
+    }
+
+    #meet-image, #about-image, #news-image, #event-image, #join-image, #contact-image {
+        height: 300px;
+    }
+
+    .cell {
+        padding: 3rem;
+    }
+
+    .container {
+        height: 90vh;
+        margin: 2rem;
+        display: inline-table;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-gap: 10px 10px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 601px and up) */
+@media only screen and (min-width: 601px) {
+
+    #logo, #top-menu {
+        line-height: 40px;
+    }
+    
+    #top-menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: -16px;
+        font-size: 58%;
+        padding: 8px;
+        letter-spacing: 6px;
+    }
+
+    #meet-outer {
+        height: 600px;
+    }
+
+    #meet-image, #about-image, #news-image, #event-image, #join-image, #contact-image {
+        height: 600px;
+    }
+
+    .cell {
+        padding: 3rem;
+    }
+
+    .container {
+        height: 66vh;
+        
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+    #logo, #top-menu {
+        line-height: 40px;
+    }
+    
+    #top-menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 0px;
+        font-size: 19px;
+        padding: 8px;
+        letter-spacing: 6px;
+    }
+
+    #meet-outer {
+        height: 600px;
+    }
+
+    #meet-image, #about-image, #news-image, #event-image, #join-image, #contact-image {
+        height: 600px;
+    }
+
+    .cell {
+        padding: 3rem;
+    }
+
+    .container {
+        height: 66vh;
+        /* margin: 2rem;
+        display: inline-table;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-gap: 10px 10px; */
+    }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    #top-menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 2px;
+        font-size: 105%;
+        padding: 7px;
+    }
+
+    .container {
+        height: 66vh;
+        margin: 2rem;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-gap: 10px 10px;
+    }
+
+    .cell {
+        padding: 4rem;
+    }
+
     .events-grid {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: unset;
     }
-    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    #top-menu li {
+        float: right;
+        list-style-type: none;
+        margin-right: 2px;
+        font-size: 105%;
+        padding: 7px;
+    }
+
+    .container {
+        height: 60vh;
+        margin: 2rem;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-gap: 10px 10px;
+    }
+
+    .cell {
+        padding: 4rem;
+    }
+
+    .events-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: unset;
+    }
 }
