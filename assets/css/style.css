@@ -118,7 +118,6 @@ h1, h2 {
     font-size: 3rem;
     text-align: center;
     padding: 4rem;
-    height: fit-content;
 }
 
 .cell img {
@@ -238,7 +237,6 @@ h1, h2 {
     background-size: cover;
 }
 
-
 /* events page */
 
 #events {
@@ -254,6 +252,8 @@ h1, h2 {
     background: url(../images/events.png) no-repeat center center;
     background-size: cover;
 }
+
+/* grids used on news & events pages */
 
 .events-grid {
     margin: 2rem;
