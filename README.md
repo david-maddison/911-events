@@ -4,6 +4,14 @@
 
 ![Responsice Mockup](Add AM I RESPONSIVE? images as PNG files)
 
+## UX (briefly explain design)
+
+### Colour Scheme (explain your colors, etc....perhaps use cooler.co?)
+
+### Typography (explain any fonts and icon libraries used)
+
+### Wireframes (include screenshots of your frames)
+
 ## Features 
 
 Home - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
@@ -52,6 +60,9 @@ Contact - This will provide contact details for users to get in touch with the o
 
 - tbc....
 
+### Technologies Used (explain various tech used, such as HTML, CSS, Balsamiq, TinyPNG, Gitpod, GitHub, Git, etc...)
+
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -64,14 +75,17 @@ If this section grows too long, you may want to split it off into a separate fil
 
 Add scrren shots of Google Chrome, Firefox iPad, Edge and in mobile view.
 
+### Browser Compatability
 
-### Validator Testing 
+### Code Validation 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
   - screen shot results
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+### Responsiveness
 
 ### Unfixed Bugs
 
@@ -115,6 +129,8 @@ You can break the credits section up into Content and Media, depending on what y
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+
+### Acknowledgements
 
 ## Other General Project Advice
 
