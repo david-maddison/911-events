@@ -407,6 +407,10 @@ input[type="submit"]:hover {
     a:visited {
         color: unset;
     }
+
+    #what-we-do {
+        font-size: 124%;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 601px and up) */
@@ -515,7 +519,7 @@ input[type="submit"]:hover {
     }
 
     .cell {
-        padding: 4rem;
+        padding: 3rem;
     }
 
     .events-grid {
