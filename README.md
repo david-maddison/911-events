@@ -42,14 +42,14 @@ Contact - This will provide contact details for users to get in touch with the o
   - The main page includes a photograph of three classic Porsche 911's at a meetup. This gives the user a clear indication of the intent of the website, and will provide  
   - This section also includes a quote from Ferdinad
 
-![Landing Page](https://github.com/david-maddison/911-events/blob/main/assets/images/valdemaras-januska-igaoYBHBDws-unsplash.jpg)
+![Landing Page](https://github.com/david-maddison/911-events/blob/main/images/hero.png?raw=true)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for 911 Events. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/david-maddison/911-events/blob/main/assets/images/footer.png)
+![Footer](https://github.com/david-maddison/911-events/blob/main/docs/readme/footer.png?raw=true)
 
 - __Join Us Page__
 
