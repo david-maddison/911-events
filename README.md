@@ -6,7 +6,18 @@
 
 ## UX
 
+- What is the idea?
+  - The website is called 911 Events.
+  - It is a website designed to cater for Porsche 911 enthusiasts and owners.
+  - It will list events planned in the UK for 911 enthusiasts and owners.
+  - It should provide links to all the latest news articles on 911 models.
 
+- User Stories
+  - As a new user the sites purpose should be immediately clear.
+  - As a user I should be able to easily contact the site.
+  - As a user I want to be able to follow the site on their social media platforms.
+  - As a user I want to be able to sign up to a mailing list, to be kept up to date with new events and features.
+  - As a user I want to have access to the lasted Porsche 911 news.
 
 ### Colour Scheme 
 
@@ -57,7 +68,6 @@ The following hex colors are used on the site:
 - __Contact__
   - This will provide contact details for users to get in touch with the owners of the site.
 
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -92,7 +102,21 @@ The following hex colors are used on the site:
 
 ### Features Left to Implement
 
-- tbc....
+- Members section
+  - Currently I do not have the skills to attach a database to run a members section along with additional pages.
+  - This will be required in the future to improve the user experience and to build on the creation of a community.
+  - Users will be able to share images of their vehicles or events
+  - A forum would also be useful to allow users to share information.
+
+- Policies in the footer
+  - Privacy policy
+  - Terms of Use
+  - Cookies
+  - There was not enough time or resource to allow for the creation of these additional pages.
+
+- Social Media Accounts
+  - Accounts still need to be setup for Facebook, Instagram, Twitter & YouTube for 911 Events.
+  - The icons in the footer can then be redirected to the 911 Events social media account for each icon, where as currently the icons take you to the social media platforms website.
 
 ### Technologies Used
 
@@ -116,31 +140,41 @@ The following hex colors are used on the site:
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+/* TESTING TO ADD */
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Add scrren shots of Google Chrome, Firefox iPad, Edge and in mobile view.
 
 ### Browser Compatability
+
+- [Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
+- [Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
+- [Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
+
+/* MOBILE TO ADD */
 
 ### Code Validation 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
-  - screen shot results
+  - No errors were returned when passing through the official [W3C Markup Validator]((https://validator.w3.org/#validate_by_uri)) 
+    - [Home Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/index-validation.png?raw=true)
+    - [About Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/about-validation.png?raw=true)
+    - [News Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/news-validation.png?raw=true)
+    - [Events Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/events-validation.png?raw=true)
+    - [Join-us Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-validation.png?raw=true)
+    - [Contact Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/contact-validation.png?raw=true)
+  - Two warnings were found for sections that did not have a H2 to H6 element. However these do not require attention.
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [W3C CSS Validator](http://jigsaw.w3.org/css-validator/.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org)
+    - [Style Page](W3C CSS Validator](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
 
 ### Responsiveness
 
+- The website has been designed as a desktop website, and then responsive media queries have been used to allow for the industry standard breakpoints.
+- [W3 Schools Media Queries](https://github.com/david-maddison/911-events/blob/main/docs/readme/mediaqueries.png?raw=true)
+
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+I am not currently aware of any unfixed bugs in the system.
 
 ## Deployment
 
@@ -165,10 +199,10 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 - The text content across all pages was written by David Maddison.
 - The quote on the Home page was taken from [AZ Quotes](https://www.azquotes.com/quote/587349)
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the Home page grids were taken from [Font Awesome](https://fontawesome.com/)
 - The icons used in the website Footer were taken from [Font Awesome](https://fontawesome.com/)
 - The CSS code for the grids used on the Home page & Events was taken from [Developer Drive](https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/)
+- The CSS code for the responsive media queries (device breakpoints) was taken from [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) 
 
 ### Media
 
