@@ -333,7 +333,7 @@ input[type="submit"] {
     font-size: .8em;
 }
 
-input:hover {
+input[type="submit"]:hover {
     background-color: #4CAF50;
     color: #ffffff;
 }

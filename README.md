@@ -69,8 +69,8 @@ The following hex colors are used on the site:
 
 - __The main page image__
 
-  - The main page includes a photograph of three classic Porsche 911's at a meetup. This gives the user a clear indication of the intent of the website, and will provide  
-  - This section also includes a quote from Ferdinad
+  - The main page uses an image of three classic Porsche 911's at a meetup (the hero image). This gives the user a clear indication of the intent of the website, and provides a strong colourful image for the main page.  
+  - This section also includes a quote from Ferdinand Alexander Porsche. This is a well known quote from a member of the Porsche family, which users will instantly recognise. 
 
 ![Landing Page](https://github.com/david-maddison/911-events/blob/main/assets/images/hero.png?raw=true)
 
@@ -83,7 +83,10 @@ The following hex colors are used on the site:
 
 - __Join Us Page__
 
-  - This page will allow the user to get signed up to 911 Events to engage and take part in upcoming events. The user will be able to confirm if they are an owner or enthusiast. This will allow 911 Events to gauge how many 911 owners are on the mailing list. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to 911 Events to engage and take part in upcoming events. 
+  - The user will be able to confirm if they are an owner or enthusiast. This will allow 911 Events to gauge how many 911 owners are on the mailing list. 
+  - The user will be asked to submit their full name and email address.
+  - The form uses"required" attributes on each of the "select" & "input" elements. This ensures that the User completes each section of the form correctly, before they are able to finally submit.
 
 ![Join Us](Add an image of the join us page)
 
