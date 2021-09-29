@@ -35,9 +35,9 @@ The following hex colors are used on the site:
 
 ### Typography
 
-- The font's were chosen for their clean, simple look, to allow for the user to read with ease.
+- The fonts were chosen for their clean, simple look, to allow for the user to read with ease.
 - The main font used throughout the site is **Roboto**.
-- There are then two back up font's used in the body and across the h1 & h2 elements.
+- There are then two back up fonts used in the body and across the h1 & h2 elements.
   - The body uses a backup of **Open Sans Condensed**.
   - The h1 & h2 elements use a backup of **San-serif**.
 
@@ -140,14 +140,124 @@ The following hex colors are used on the site:
 
 ## Testing 
 
-/* TESTING TO ADD */
+The below tests were performed to check that features and links were all fully operational and working:
 
+### Header 
+- Does the Porsche Logo / 911 Events area when clicked take you back to the home page?
+  - Result = Passed. When clicked the user is taken to the home page.
+
+### Header Navigation Menu
+- When **Home** is selected, is the user taken to the home page and is **Home** underlined as active?
+	- Result = Passed. When **Home** is selected the user is taken to the home page, and it is underlined as active.
+
+- When **About** is selected, is the user taken to the about page and is **About** underlined as active?
+	- Result = Passed. When **About** is selected the user is taken to the about page, and it is underlined as active.
+
+- When **News** is selected, is the user taken to the news page and is **News** underlined as active?
+	- Result = Passed. When **News** is selected the user is taken to the news page, and it is underlined as active.
+
+- When **Events** is selected, is the user taken to the events page and is **Events** underlined as active?
+	- Result = Passed. When **Events** is selected the user is taken to the events page, and it is underlined as active.
+
+- When **Join us** is selected, is the user taken to the join-us page and is **Join us** underlined as active?
+	- Result = Passed. When **Join us** is selected the user is taken to the join-us page, and it is underlined as active.
+
+- When **Contact** is selected, is the user taken to the contact page and is **Contact** underlined as active?
+	- Result = Passed. When **Contact** is selected the user is taken to the contact page, and it is underlined as active.
+
+### Home Page Grid Links
+- When the **News** grid is selected, is the user taken to the news page?
+	- Result = Passed. When the **News** grid is selected the user is taken to the news page.
+
+- When the **Events** grid is selected, is the user taken to the events page?
+	- Result = Passed. When the **Events** grid is selected the user is taken to the events page.
+
+- When the **About** grid is selected, is the user taken to the about page?
+	- Result = Passed. When the **About** grid is selected the user is taken to the about page.
+
+- When the **Join** button is selected, is the user taken to the join-us page?
+	- Result = Passed. When the **Join** button is selected the user is taken to the join-us page.
+
+- When the user hovers over the **Join** button, is the button displayed to the user as the colour green?
+	- Result = Passed. When the user hovers over the **Join** button it is displayed to the user as the colour green.
+
+### Footer Navigation Menu
+- When **Home** is selected, is the user taken to the home page and is **Home** underlined as active?
+	- Result = Passed. When **Home** is selected the user is taken to the home page, and it is underlined as active.
+
+- When **About** is selected, is the user taken to the about page and is **About** underlined as active?
+	- Result = Passed. When **About** is selected the user is taken to the about page, and it is underlined as active.
+
+- When **News** is selected, is the user taken to the news page and is **News** underlined as active?
+	- Result = Passed. When **News** is selected the user is taken to the news page, and it is underlined as active.
+
+- When **Events** is selected, is the user taken to the events page and is **Events** underlined as active?
+	- Result = Passed. When **Events** is selected the user is taken to the events page, and it is underlined as active.
+
+- When **Join us** is selected, is the user taken to the join-us page and is **Join us** underlined as active?
+	- Result = Passed. When **Join us** is selected the user is taken to the join-us page, and it is underlined as active.
+
+- When **Contact** is selected, is the user taken to the contact page and is **Contact** underlined as active?
+	- Result = Passed. When **Contact** is selected the user is taken to the contact page, and it is underlined as active.
+
+### Footer Social Media Links
+- When the **Facebook** icon is selected, is the user taken to the Facebook home page and is **Facebook** opened in a new window?
+	- Result = Passed. When the **Facebook** icon is selected the user is taken to the Facebook home page and it opens in a new window.
+
+- When the **Instagram** icon is selected, is the user taken to the Instagram home page and is **Instagram** opened in a new window?
+	- Result = Passed. When the **Instagram** icon is selected the user is taken to the Instagram home page and it opens in a new window.
+
+- When the **Twitter** icon is selected, is the user taken to the Twitter home page and is **Twitter** opened in a new window?
+	- Result = Passed. When the **Twitter** icon is selected the user is taken to the Twitter home page and it opens in a new window.
+
+- When the **YouTube** icon is selected, is the user taken to the Youtube home page and is **YouTube** opened in a new window?
+	- Result = Passed. When the **YouTube** icon is selected the user is taken to the YouTube home page and it opens in a new window.
+
+### News Page Grid Links
+- When the **Newsroom 911** grid is selected, is the user taken to the Porsche Newsroom page and is it opened in a new window?
+	- Result = Passed. When the **Newsroom 911** grid is selected the user is taken to the Porsche Newsroom page and it opens in a new window.
+
+- When the **Autocar** grid is selected, is the user taken to the Autocar website page displaying the article on the new 911 GTS and is it opened in a new window?
+	- Result = Passed. When the **Autocar** grid is selected the user is taken to the Autocar website page displaying the article on the new 911 GTS and it opens in a new window.
+
+- When the **Carfection** grid is selected, is the user taken to the Carfection YouTube channel showing the video of the Electric 911 and is it opened in a new window?
+	- Result = Passed. When the **Carfection** grid is selected the user is taken to the Carfection YouTube channel showing the video of the Electric 911 and it opens in a new window.
+
+### Events Page Grid Links
+- When the **Classics at the Castle** text is selected, is the user taken to the Classics at the Castle event page on the Hedingham Castle website and is it opened in a new window?
+	- Result = Passed. When the **Classics at the Castle** text is selected the user is taken to the Classics at the Castle event page on the Hedingham Castle website and it opens in a new window.
+
+- When the **Kop Hill Climb** text is selected, is the user taken to the Kop Hill Climb website and is it opened in a new window?
+	- Result = Passed. When the **Kop Hill Climb** text is selected the user is taken to the Kop Hill Climb website and it opens in a new window.
+
+- When the **Classic Motor Show** text is selected, is the user taken to the Classic Motor Show website and is it opened in a new window?
+	- Result = Passed. When the **Classic Motor Show** text is selected the user is taken to the Classic Motor Show website and it opens in a new window.
+
+### Join Us Form
+
+- Can a user submit a blank form?
+	- Result = Passed. No the user is not able to submit a blank form. Required fields prevent this from being allowed.
+
+- Can a user submit a form with only the First Name field completed?
+	- Result = Passed. No the user is not able to submit a form with just the First Name completed. Required fields prevent this from being allowed.
+
+- Can a user submit a form with only the Last Name field completed?
+	- Result = Passed. No the user is not able to submit a form with just the Last Name completed. Required fields prevent this from being allowed.
+
+- Can a user submit a form with only the Email Address field completed?
+	- Result = Passed. No the user is not able to submit a form with just the Email Address completed. Required fields prevent this from being allowed.
+
+- Can a user submit a form with only the Status field completed?
+	- Result = Passed. No the user is not able to submit a form with just the Status field completed. Required fields prevent this from being allowed.
+
+- Is the user able to change their status before the form is submitted?
+	- Result = Passed. Yes the user is able to change their status before the form is submitted. The user is unable to re-select the option "Select an option" after they have changed the status for the first time. This is made possible my the option value "disabled selected".
 
 ### Browser Compatability
 
-- [Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
-- [Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
-- [Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
+- ![Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
+- ![Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
+- ![Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
 
 /* MOBILE TO ADD */
 
@@ -155,17 +265,17 @@ The following hex colors are used on the site:
 
 - HTML
   - No errors were returned when passing through the official [W3C Markup Validator]((https://validator.w3.org/#validate_by_uri)) 
-    - [Home Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/index-validation.png?raw=true)
-    - [About Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/about-validation.png?raw=true)
-    - [News Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/news-validation.png?raw=true)
-    - [Events Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/events-validation.png?raw=true)
-    - [Join-us Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-validation.png?raw=true)
-    - [Contact Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/contact-validation.png?raw=true)
+    - ![Home Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/index-validation.png?raw=true)
+    - ![About Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/about-validation.png?raw=true)
+    - ![News Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/news-validation.png?raw=true)
+    - ![Events Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/events-validation.png?raw=true)
+    - ![Join-us Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-validation.png?raw=true)
+    - ![Contact Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/contact-validation.png?raw=true)
   - Two warnings were found for sections that did not have a H2 to H6 element. However these do not require attention.
 
 - CSS
-  - No errors were found when passing through the official [W3C CSS Validator](http://jigsaw.w3.org/css-validator/.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org)
-    - [Style Page](W3C CSS Validator](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
+  - No errors were found when passing through the official [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+    - ![Style Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
 
 ### Responsiveness
 
@@ -207,19 +317,19 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 ### Media
 
 - All images used on the website were sourced from: 
-  - Header | Credit - porsche.com | Url - (https://cdn.ui.porsche.com/porsche-design-system/marque/porsche-marque-trademark.medium.min.da075315857e239ff46bf4c150648ff0@1x.png)
-  - Index | Credit - Valdemaras Januška | User Account - @valdemaras | Url - (https://unsplash.com/photos/igaoYBHBDws)
-  - About | Credit - Lucas Giordano | User Account - @lucas_giordano | Url - (https://unsplash.com/photos/vE5zDNbQvoU)
-  - News | Credit - Stuart Garage | User Account - @stuartgarage | Url - (https://unsplash.com/photos/7XIc5xYv6FM)
-  - News | Credit - porsche.com | Url (https://newsroom.porsche.com/.resources/porsche-templating/img/logo-newsroom-top-en.svg)
-  - News | Credit - autocar.co.uk | Url (https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/autocar_logo.svg)
-  - News | Credit - youtube.com | User Account - Carfection | Url - (https://www.youtube.com/c/Carfection/featured)
-  - Events | Credit - Porsche Club GB | Url - (https://www.porscheclubgb.com/community/images/latest/silverstone-classic)
-  - Events | Credit - Porsche Club GB | Url - (https://www.porscheclubgb.com/events/2021/september/classics-at-the-castle)
-  - Events | Credit - Kophill Climb | Url - (https://www.kophillclimb.org.uk/wp-content/themes/kophill-climb/assets/img/Kop-Hill-Reworked-logo.png)
-  - Events | Credit - The NEC, Birmingham | Url - (https://www.thenec.co.uk/media/6161/cms_logo_2021.png)
-  - Join-us | Credit - Andre Tan | User Account - @andredantan19 | Url - (https://unsplash.com/photos/7_67OMV3mxA) 
-  - Contact | Credit - Pavan Trikutam | User Account - @ptrikutam | Url - (https://unsplash.com/photos/71CjSSB83Wo)
+  - Header | Credit - porsche.com | Url - [Porsche Logo](https://cdn.ui.porsche.com/porsche-design-system/marque/porsche-marque-trademark.medium.min.da075315857e239ff46bf4c150648ff0@1x.png)
+  - Index | Credit - Valdemaras Januška | User Account - @valdemaras | Url - [Home](https://unsplash.com/photos/igaoYBHBDws)
+  - About | Credit - Lucas Giordano | User Account - @lucas_giordano | Url - [About](https://unsplash.com/photos/vE5zDNbQvoU)
+  - News | Credit - Stuart Garage | User Account - @stuartgarage | Url - [News](https://unsplash.com/photos/7XIc5xYv6FM)
+  - News | Credit - porsche.com | Url [Newsroom](https://newsroom.porsche.com/.resources/porsche-templating/img/logo-newsroom-top-en.svg)
+  - News | Credit - autocar.co.uk | Url [Autocar](https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/autocar_logo.svg)
+  - News | Credit - youtube.com | User Account - Carfection | Url - [Carfection](https://www.youtube.com/c/Carfection/featured)
+  - Events | Credit - Porsche Club GB | Url - [Events](https://www.porscheclubgb.com/community/images/latest/silverstone-classic)
+  - Events | Credit - Porsche Club GB | Url - [Classics at the Castle](https://www.porscheclubgb.com/events/2021/september/classics-at-the-castle)
+  - Events | Credit - Kophill Climb | Url - [Kophill Climb](https://www.kophillclimb.org.uk/wp-content/themes/kophill-climb/assets/img/Kop-Hill-Reworked-logo.png)
+  - Events | Credit - The NEC, Birmingham | Url - [Classic Car Show](https://www.thenec.co.uk/media/6161/cms_logo_2021.png)
+  - Join-us | Credit - Andre Tan | User Account - @andredantan19 | Url - [Join-us](https://unsplash.com/photos/7_67OMV3mxA) 
+  - Contact | Credit - Pavan Trikutam | User Account - @ptrikutam | Url - [Contact](https://unsplash.com/photos/71CjSSB83Wo)
 
 ### Acknowledgements
 
