@@ -25,10 +25,10 @@ The following hex colors are used on the site:
 ### Typography
 
 - The font's were chosen for their clean, simple look, to allow for the user to read with ease.
-- The main font used throughout the site is **Roboto**
-- There are then two back up font's used in the body and across the h1 & h2 elements
-  - The body uses a backup of **Open Sans Condensed**
-  - The h1 & h2 elements use a backup of **San-serif**
+- The main font used throughout the site is **Roboto**.
+- There are then two back up font's used in the body and across the h1 & h2 elements.
+  - The body uses a backup of **Open Sans Condensed**.
+  - The h1 & h2 elements use a backup of **San-serif**.
 
 ### Wireframes 
 - Desktop
@@ -77,7 +77,7 @@ The following hex colors are used on the site:
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for 911 Events. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/david-maddison/911-events/blob/main/docs/readme/footer.png?raw=true)
 
@@ -88,7 +88,7 @@ The following hex colors are used on the site:
   - The user will be asked to submit their full name and email address.
   - The form uses"required" attributes on each of the "select" & "input" elements. This ensures that the User completes each section of the form correctly, before they are able to finally submit.
 
-![Join Us](Add an image of the join us page)
+![Join Us Form](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-form.png?raw=true)
 
 ### Features Left to Implement
 
@@ -96,6 +96,22 @@ The following hex colors are used on the site:
 
 ### Technologies Used (explain various tech used, such as HTML, CSS, Balsamiq, TinyPNG, Gitpod, GitHub, Git, etc...)
 
+- **[HTML5](https://en.wikipedia.org/wiki/HTML5)** - used to write & create the text content on site.
+- **[CSS3](https://en.wikipedia.org/wiki/CSS)** - used to style the text content displayed on site.
+- **[Google Fonts](https://fonts.google.com/)** - used to source & link fonts for the site.
+- **[FontAwesome](https://fontawesome.com/)** - used to source * link icons displayed within the site.
+- **[Gitpod](https://www.gitpod.io/)** - used as the interactive development environment (IDE) for the website build.
+- **[Unsplash](https://unsplash.com/)** - used to source freely-usable images for the website.
+- **[TinyPNG](https://tinypng.com/)** - used to compress png images for the website.
+- **[GitHub](https://github.com/)** - used to store, share & display all files related to the website.
+- **[Balsamiq](https://balsamiq.com/)** - used to create wireframes for the website.
+- **[Placeholder](https://placeholder.com/)** - used to source & add colors to the readme.
+- **[Git](https://git-scm.com/)** - used to provide the version control for the website build.
+- **[W3C Markup Validator](https://validator.w3.org/#validate_by_uri)** - used to validate my HTML code.
+- **[W3C CSS Validator](http://jigsaw.w3.org/css-validator/)** - used to validate my CSS code.
+- **[Google Chrome](https://www.google.co.uk/chrome/?brand=FHFK&gclid=CjwKCAjwndCKBhAkEiwAgSDKQReKh_QbfylABwSF9xJIKEEYizvTUNUOVZCmCM_uMYXErvqz2KevnhoCIDcQAvD_BwE&gclsrc=aw.ds)** - used to check the compatability of the website using the Google Chrome browser.
+- **[Microsoft Edge](https://www.microsoft.com/en-us/edge)** - used to check the compatability of the webiste using the Microsoft Edge browser.
+- **[Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)** - used to check the compatability of the website using the Mozilla Frefox browser.
 
 ## Testing 
 
