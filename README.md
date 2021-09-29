@@ -72,7 +72,7 @@ The following hex colors are used on the site:
   - The main page includes a photograph of three classic Porsche 911's at a meetup. This gives the user a clear indication of the intent of the website, and will provide  
   - This section also includes a quote from Ferdinad
 
-![Landing Page](https://github.com/david-maddison/911-events/blob/main/images/hero.png?raw=true)
+![Landing Page](https://github.com/david-maddison/911-events/blob/main/assets/images/hero.png?raw=true)
 
 - __The Footer__ 
 
