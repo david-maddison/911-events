@@ -2,7 +2,7 @@
 
 911 Events is a website designed to service Porsche 911 owners and enthusiasts with UK events and news relating to the Porsche 911. 
 
-![Responsice Mockup](Add AM I RESPONSIVE? images as PNG files)
+![Responsice Mockup]()
 
 ## UX (briefly explain design)
 
@@ -48,7 +48,7 @@ Contact - This will provide contact details for users to get in touch with the o
   - The footer section includes links to the relevant social media sites for 911 Events. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/david-maddison/911-events/blob/main/assets/images/footer.PNG)
+![Footer](https://github.com/david-maddison/911-events/blob/main/assets/images/footer.png)
 
 - __Join Us Page__
 
