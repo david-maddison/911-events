@@ -17,7 +17,7 @@
   - As a user I should be able to easily contact the site.
   - As a user I want to be able to follow the site on their social media platforms.
   - As a user I want to be able to sign up to a mailing list, to be kept up to date with new events and features.
-  - As a user I want to have access to the lasted Porsche 911 news.
+  - As a user I want to have access to the latest Porsche 911 news.
 
 ### Colour Scheme 
 
@@ -143,10 +143,12 @@ The following hex colors are used on the site:
 The below tests were performed to check that features and links were all fully operational and working:
 
 ### Header 
+
 - Does the Porsche Logo / 911 Events area when clicked take you back to the home page?
   - Result = Passed. When clicked the user is taken to the home page.
 
 ### Header Navigation Menu
+
 - When **Home** is selected, is the user taken to the home page and is **Home** underlined as active?
 	- Result = Passed. When **Home** is selected the user is taken to the home page, and it is underlined as active.
 
@@ -166,6 +168,7 @@ The below tests were performed to check that features and links were all fully o
 	- Result = Passed. When **Contact** is selected the user is taken to the contact page, and it is underlined as active.
 
 ### Home Page Grid Links
+
 - When the **News** grid is selected, is the user taken to the news page?
 	- Result = Passed. When the **News** grid is selected the user is taken to the news page.
 
@@ -182,6 +185,7 @@ The below tests were performed to check that features and links were all fully o
 	- Result = Passed. When the user hovers over the **Join** button it is displayed to the user as the colour green.
 
 ### Footer Navigation Menu
+
 - When **Home** is selected, is the user taken to the home page and is **Home** underlined as active?
 	- Result = Passed. When **Home** is selected the user is taken to the home page, and it is underlined as active.
 
@@ -201,6 +205,7 @@ The below tests were performed to check that features and links were all fully o
 	- Result = Passed. When **Contact** is selected the user is taken to the contact page, and it is underlined as active.
 
 ### Footer Social Media Links
+
 - When the **Facebook** icon is selected, is the user taken to the Facebook home page and is **Facebook** opened in a new window?
 	- Result = Passed. When the **Facebook** icon is selected the user is taken to the Facebook home page and it opens in a new window.
 
@@ -214,6 +219,7 @@ The below tests were performed to check that features and links were all fully o
 	- Result = Passed. When the **YouTube** icon is selected the user is taken to the YouTube home page and it opens in a new window.
 
 ### News Page Grid Links
+
 - When the **Newsroom 911** grid is selected, is the user taken to the Porsche Newsroom page and is it opened in a new window?
 	- Result = Passed. When the **Newsroom 911** grid is selected the user is taken to the Porsche Newsroom page and it opens in a new window.
 
@@ -224,6 +230,7 @@ The below tests were performed to check that features and links were all fully o
 	- Result = Passed. When the **Carfection** grid is selected the user is taken to the Carfection YouTube channel showing the video of the Electric 911 and it opens in a new window.
 
 ### Events Page Grid Links
+
 - When the **Classics at the Castle** text is selected, is the user taken to the Classics at the Castle event page on the Hedingham Castle website and is it opened in a new window?
 	- Result = Passed. When the **Classics at the Castle** text is selected the user is taken to the Classics at the Castle event page on the Hedingham Castle website and it opens in a new window.
 
@@ -255,9 +262,14 @@ The below tests were performed to check that features and links were all fully o
 
 ### Browser Compatability
 
-- ![Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
-- ![Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
-- ![Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
+__Google Chrome__
+![Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
+
+__Microsoft Edge__
+![Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
+
+__Mozilla Firefox__
+![Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
 
 /* MOBILE TO ADD */
 
