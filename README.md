@@ -42,10 +42,21 @@ The following hex colors are used on the site:
   - The h1 & h2 elements use a backup of **San-serif**.
 
 ### Wireframes 
+
 - Desktop
 
-![Wireframes1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-1.png?raw=true)
-![Wireframes2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-2.png?raw=true)
+![Desktop1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-1.png?raw=true)
+![Desktop2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-2.png?raw=true)
+
+- Tablet
+
+![Tablet1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/tablet-wf-1.png?raw=true)
+![Tablet2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/tablet-wf-2.png?raw=true)
+
+- Mobile
+
+![Mobile1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/mobile-wf-1.png?raw=true)
+![Mobile2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/mobile-wf-2.png?raw=true)
 
 ## Features 
 
