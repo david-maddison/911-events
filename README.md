@@ -77,7 +77,7 @@ The following hex colors are used on the site:
 
 ![Nav Bar](https://github.com/david-maddison/911-events/blob/main/docs/readme/navbar.png?raw=true)
 
-- __The main page image__
+- __The Home Page Image__
 
   - The main page uses an image of three classic Porsche 911's at a meetup (the hero image). This gives the user a clear indication of the intent of the website, and provides a strong colourful image for the main page.  
   - This section also includes a quote from Ferdinand Alexander Porsche. This is a well known quote from a member of the Porsche family, which users will instantly recognise. 
@@ -314,8 +314,8 @@ No errors were found when passing through the official [W3C CSS Validator](http:
 
 ### Responsiveness
 
-- The website has been designed as a desktop website, and then responsive media queries have been used to allow for the industry standard breakpoints.
-- [W3 Schools Media Queries](https://github.com/david-maddison/911-events/blob/main/docs/readme/mediaqueries.png?raw=true)
+The website has been designed as a desktop website, and then responsive media queries have been used to allow for the industry standard breakpoints.
+[W3 Schools Media Queries](https://github.com/david-maddison/911-events/blob/main/docs/readme/mediaqueries.png?raw=true) were used to create breakpoints to allow for different screen sizes across large computers screens, laptops, tablets and mobiles.
 
 ### Unfixed Bugs
 
@@ -323,7 +323,7 @@ I am not currently aware of any unfixed bugs in the system.
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
@@ -352,19 +352,19 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 ### Media
 
 - All images used on the website were sourced from: 
-  - Header | Credit - porsche.com | Url - [Porsche Logo](https://cdn.ui.porsche.com/porsche-design-system/marque/porsche-marque-trademark.medium.min.da075315857e239ff46bf4c150648ff0@1x.png)
-  - Index | Credit - Valdemaras Januška | User Account - @valdemaras | Url - [Home](https://unsplash.com/photos/igaoYBHBDws)
-  - About | Credit - Lucas Giordano | User Account - @lucas_giordano | Url - [About](https://unsplash.com/photos/vE5zDNbQvoU)
-  - News | Credit - Stuart Garage | User Account - @stuartgarage | Url - [News](https://unsplash.com/photos/7XIc5xYv6FM)
-  - News | Credit - porsche.com | Url [Newsroom](https://newsroom.porsche.com/.resources/porsche-templating/img/logo-newsroom-top-en.svg)
-  - News | Credit - autocar.co.uk | Url [Autocar](https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/autocar_logo.svg)
-  - News | Credit - youtube.com | User Account - Carfection | Url - [Carfection](https://www.youtube.com/c/Carfection/featured)
-  - Events | Credit - Porsche Club GB | Url - [Events](https://www.porscheclubgb.com/community/images/latest/silverstone-classic)
-  - Events | Credit - Porsche Club GB | Url - [Classics at the Castle](https://www.porscheclubgb.com/events/2021/september/classics-at-the-castle)
-  - Events | Credit - Kophill Climb | Url - [Kophill Climb](https://www.kophillclimb.org.uk/wp-content/themes/kophill-climb/assets/img/Kop-Hill-Reworked-logo.png)
-  - Events | Credit - The NEC, Birmingham | Url - [Classic Car Show](https://www.thenec.co.uk/media/6161/cms_logo_2021.png)
-  - Join-us | Credit - Andre Tan | User Account - @andredantan19 | Url - [Join-us](https://unsplash.com/photos/7_67OMV3mxA) 
-  - Contact | Credit - Pavan Trikutam | User Account - @ptrikutam | Url - [Contact](https://unsplash.com/photos/71CjSSB83Wo)
+  - Credit - porsche.com | Url - [Porsche Logo](https://cdn.ui.porsche.com/porsche-design-system/marque/porsche-marque-trademark.medium.min.da075315857e239ff46bf4c150648ff0@1x.png)
+  - Credit - Valdemaras Januška | User Account - @valdemaras | Url - [Home](https://unsplash.com/photos/igaoYBHBDws)
+  - Credit - Lucas Giordano | User Account - @lucas_giordano | Url - [About](https://unsplash.com/photos/vE5zDNbQvoU)
+  - Credit - Stuart Garage | User Account - @stuartgarage | Url - [News](https://unsplash.com/photos/7XIc5xYv6FM)
+  - Credit - porsche.com | Url [Newsroom](https://newsroom.porsche.com/.resources/porsche-templating/img/logo-newsroom-top-en.svg)
+  - Credit - autocar.co.uk | Url [Autocar](https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/autocar_logo.svg)
+  - Credit - youtube.com | User Account - Carfection | Url - [Carfection](https://www.youtube.com/c/Carfection/featured)
+  - Credit - Porsche Club GB | Url - [Events](https://www.porscheclubgb.com/community/images/latest/silverstone-classic)
+  - Credit - Porsche Club GB | Url - [Classics at the Castle](https://www.porscheclubgb.com/events/2021/september/classics-at-the-castle)
+  - Credit - Kophill Climb | Url - [Kophill Climb](https://www.kophillclimb.org.uk/wp-content/themes/kophill-climb/assets/img/Kop-Hill-Reworked-logo.png)
+  - Credit - The NEC, Birmingham | Url - [Classic Car Show](https://www.thenec.co.uk/media/6161/cms_logo_2021.png)
+  - Credit - Andre Tan | User Account - @andredantan19 | Url - [Join-us](https://unsplash.com/photos/7_67OMV3mxA) 
+  - Credit - Pavan Trikutam | User Account - @ptrikutam | Url - [Contact](https://unsplash.com/photos/71CjSSB83Wo)
 
 ### Acknowledgements
 
