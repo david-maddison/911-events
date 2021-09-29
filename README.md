@@ -333,6 +333,12 @@ No errors were found when passing through the official [W3C CSS Validator](http:
 
 ![Style Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
 
+__Accessibility__
+
+Using Lighthouse in Chrome Developer Tools I confirmed that the colors and fonts are easy to read and accessibile.
+
+![Lighthouse](https://github.com/david-maddison/911-events/blob/main/docs/readme/lighthouse.png?raw=true)
+
 ### Responsiveness
 
 The website has been designed as a desktop website, and then responsive media queries have been used to allow for the industry standard breakpoints.
