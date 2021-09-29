@@ -13,6 +13,7 @@
 ### Wireframes 
 ![Wireframes1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-1.png?raw=true)
 ![Wireframes2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-2.png?raw=true)
+
 ## Features 
 
 Home - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
