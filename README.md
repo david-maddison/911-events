@@ -10,8 +10,9 @@
 
 ### Typography (explain any fonts and icon libraries used)
 
-### Wireframes (include screenshots of your frames)
-
+### Wireframes 
+![Wireframes1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-1.png?raw=true)
+![Wireframes2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-2.png?raw=true)
 ## Features 
 
 Home - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
@@ -34,7 +35,7 @@ Contact - This will provide contact details for users to get in touch with the o
   - Featured on all pages, the full responsive navigation bar includes links to the Home, About, News, Events, Join Us and Contact pages. The Navigation Bar is identical on all pages to allow for easy navigation by its users.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](Add image navigation-bar.png)
+![Nav Bar](https://github.com/david-maddison/911-events/blob/main/docs/readme/navbar.png?raw=true)
 
 - __The main page image__
 
