@@ -4,36 +4,65 @@
 
 ![Responsive Mockup](https://github.com/david-maddison/911-events/blob/main/docs/readme/responsive.png?raw=true)
 
-## UX (briefly explain design)
+## UX
 
-### Colour Scheme (explain your colors, etc....perhaps use cooler.co?)
 
-### Typography (explain any fonts and icon libraries used)
+
+### Colour Scheme 
+
+The below color scheme was chosen to keep a traditional, efficient & clean pallette.
+White, grey and black are colours traditionally seen in use by Porsche for branding. These will appeal to users of the website.
+Green was used to create a call to action for the user in relation to joining and submitting the join-us form.
+The following hex colors are used on the site:
+- ![#3A3A3A](https://via.placeholder.com/15/3A3A3A/000000?text=+) #3A3A3A
+- ![#141414](https://via.placeholder.com/15/141414/000000?text=+) #141414 
+- ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) #ffffff 
+- ![#889599](https://via.placeholder.com/15/889599/000000?text=+) #889599
+- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) #4CAF50 
+- ![#CCCCCC](https://via.placeholder.com/15/CCCCCC/000000?text=+) #CCCCCC
+- ![#999999](https://via.placeholder.com/15/999999/000000?text=+) #999999
+
+### Typography
+
+- The font's were chosen for their clean, simple look, to allow for the user to read with ease.
+- The main font used throughout the site is **Roboto**
+- There are then two back up font's used in the body and across the h1 & h2 elements
+  - The body uses a backup of **Open Sans Condensed**
+  - The h1 & h2 elements use a backup of **San-serif**
 
 ### Wireframes 
+- Desktop
+
 ![Wireframes1](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-1.png?raw=true)
 ![Wireframes2](https://github.com/david-maddison/911-events/blob/main/docs/wireframes/desktop-wf-2.png?raw=true)
 
 ## Features 
 
-Home - This is the main landing page, which allows the user access and to view all the pages on the website. The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
+- __Home__
+  - This is the main landing page, which allows the user access and to view all the pages on the website. 
+  - The user is given a brief explanation of the website and has the option to join the mailing list to be kept up to date.
 
-About - This page explains who is responsible for the website and why it was setup.
+- __About__
+  - This page explains the aims of the website and why it was created.
 
-News - This page will provide links to articles and videos all relating to the Porsche 911.
+- __News__
+  - This page will provide links to external articles and videos all relating to the Porsche 911.
 
-Events - This page will provide links to recent events and future planned events related to the Porsche 911.
+- __Events__
+  - This page will provide links to recent and future events related to the Porsche 911.
 
-Join Us - This will give the user the chance to complete a short form in order to join the 911 Events mailing list.
+- __Join Us__
+  - This will give the user the chance to complete a short form in order to join the 911 Events mailing list.
 
-Contact - This will provide contact details for users to get in touch with the owners of the site.
+- __Contact__
+  - This will provide contact details for users to get in touch with the owners of the site.
 
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all pages, the full responsive navigation bar includes links to the Home, About, News, Events, Join Us and Contact pages. The Navigation Bar is identical on all pages to allow for easy navigation by its users.
+  - Featured on all pages, the responsive navigation bar includes links to the Home, About, News, Events, Join Us and Contact pages. The Navigation Bar is identical on all pages to allow for easy navigation by its users.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/david-maddison/911-events/blob/main/docs/readme/navbar.png?raw=true)
