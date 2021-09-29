@@ -163,9 +163,12 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+- The text content across all pages was written by David Maddison.
+- The quote on the Home page was taken from [AZ Quotes](https://www.azquotes.com/quote/587349)
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the Home page grids were taken from [Font Awesome](https://fontawesome.com/)
+- The icons used in the website Footer were taken from [Font Awesome](https://fontawesome.com/)
+- The CSS code for the grids used on the Home page & Events was taken from [Developer Drive](https://www.developerdrive.com/how-to-create-a-css-grid-step-by-step/)
 
 ### Media
 
@@ -186,3 +189,6 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ### Acknowledgements
 
+- A big thank you to Tim Nelson (my Code Institute Mentor) for his support and feedback during this first portfolio project. He has really helped me to apply what i've learned over the HTML and CSS modules. I certainly could not have imagined being able to do this before starting the course in August 2021.
+
+- A huge thank you to my good friend David Hopkinson, who has helped me get to grips with Developer Tools in Chrome. Its amazing how things start to slot into place once you have been walked through a system like this and applied it to your own project.

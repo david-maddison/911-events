@@ -105,6 +105,8 @@ h1, h2 {
     font-size: 150%;
 }
 
+/* Lines 110 to 143 were taken from Developer Drive - HOW TO CREATE A CSS GRID STEP-BY-STEP  */
+
 .container {
     height: 90vh;
     margin: 2rem;
