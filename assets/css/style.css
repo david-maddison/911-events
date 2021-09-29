@@ -386,6 +386,20 @@ input[type="submit"] {
         grid-template-rows: repeat(3, 1fr);
         grid-gap: 10px 10px;
     }
+
+    a:hover {
+        color: unset;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: unset;
+        
+    }
+    
+    a:visited {
+        color: unset;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 601px and up) */
@@ -414,11 +428,6 @@ input[type="submit"] {
 
     .cell {
         padding: 3rem;
-    }
-
-    .container {
-        height: 66vh;
-        
     }
 }
 
@@ -449,16 +458,6 @@ input[type="submit"] {
     .cell {
         padding: 3rem;
     }
-
-    .container {
-        height: 66vh;
-        /* margin: 2rem;
-        display: inline-table;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(3, 1fr);
-        grid-gap: 10px 10px; */
-    }
-
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
