@@ -436,6 +436,20 @@ input[type="submit"]:hover {
     .cell {
         padding: 3rem;
     }
+
+    a:hover {
+        color: unset;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: unset;
+        
+    }
+    
+    a:visited {
+        color: unset;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -464,6 +478,20 @@ input[type="submit"]:hover {
 
     .cell {
         padding: 3rem;
+    }
+
+    a:hover {
+        color: unset;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: unset;
+        
+    }
+    
+    a:visited {
+        color: unset;
     }
 }
 
@@ -494,6 +522,20 @@ input[type="submit"]:hover {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: unset;
     }
+
+    a:hover {
+        color: unset;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: unset;
+        
+    }
+    
+    a:visited {
+        color: unset;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -522,5 +564,19 @@ input[type="submit"]:hover {
     .events-grid {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: unset;
+    }
+
+    a:hover {
+        color: unset;
+        text-decoration: none;
+    }
+    
+    a:active {
+        color: unset;
+        
+    }
+    
+    a:visited {
+        color: unset;
     }
 }
