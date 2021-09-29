@@ -339,13 +339,17 @@ input[type="submit"] {
 @media only screen and (max-width: 600px) {
     * {
         margin: 0;
-        padding: 6px;
+        padding: 3px;
         border: 0;
         box-sizing: border-box
     }
         
     h1, h2 {
         letter-spacing: 5px;
+    }
+    
+    #logo {
+        margin-left: -14px;
     }
     
     #logo, #top-menu {
