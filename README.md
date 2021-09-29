@@ -94,12 +94,12 @@ The following hex colors are used on the site:
 
 - tbc....
 
-### Technologies Used (explain various tech used, such as HTML, CSS, Balsamiq, TinyPNG, Gitpod, GitHub, Git, etc...)
+### Technologies Used
 
 - **[HTML5](https://en.wikipedia.org/wiki/HTML5)** - used to write & create the text content on site.
 - **[CSS3](https://en.wikipedia.org/wiki/CSS)** - used to style the text content displayed on site.
 - **[Google Fonts](https://fonts.google.com/)** - used to source & link fonts for the site.
-- **[FontAwesome](https://fontawesome.com/)** - used to source * link icons displayed within the site.
+- **[FontAwesome](https://fontawesome.com/)** - used to source & link icons displayed within the site.
 - **[Gitpod](https://www.gitpod.io/)** - used as the interactive development environment (IDE) for the website build.
 - **[Unsplash](https://unsplash.com/)** - used to source freely-usable images for the website.
 - **[TinyPNG](https://tinypng.com/)** - used to compress png images for the website.
@@ -112,6 +112,7 @@ The following hex colors are used on the site:
 - **[Google Chrome](https://www.google.co.uk/chrome/?brand=FHFK&gclid=CjwKCAjwndCKBhAkEiwAgSDKQReKh_QbfylABwSF9xJIKEEYizvTUNUOVZCmCM_uMYXErvqz2KevnhoCIDcQAvD_BwE&gclsrc=aw.ds)** - used to check the compatability of the website using the Google Chrome browser.
 - **[Microsoft Edge](https://www.microsoft.com/en-us/edge)** - used to check the compatability of the webiste using the Microsoft Edge browser.
 - **[Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)** - used to check the compatability of the website using the Mozilla Frefox browser.
+- **[SVG to PNG](https://svgtopng.com/)** - used to convert svg image files to png image files for use in the website.
 
 ## Testing 
 
@@ -143,8 +144,6 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -162,10 +161,6 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
@@ -174,27 +169,20 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+- All images used on the website were sourced from: 
+  - Header | Credit - porsche.com | Url - (https://cdn.ui.porsche.com/porsche-design-system/marque/porsche-marque-trademark.medium.min.da075315857e239ff46bf4c150648ff0@1x.png)
+  - Index | Credit - Valdemaras Januška | User Account - @valdemaras | Url - (https://unsplash.com/photos/igaoYBHBDws)
+  - About | Credit - Lucas Giordano | User Account - @lucas_giordano | Url - (https://unsplash.com/photos/vE5zDNbQvoU)
+  - News | Credit - Stuart Garage | User Account - @stuartgarage | Url - (https://unsplash.com/photos/7XIc5xYv6FM)
+  - News | Credit - porsche.com | Url (https://newsroom.porsche.com/.resources/porsche-templating/img/logo-newsroom-top-en.svg)
+  - News | Credit - autocar.co.uk | Url (https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/images/autocar_logo.svg)
+  - News | Credit - youtube.com | User Account - Carfection | Url - (https://www.youtube.com/c/Carfection/featured)
+  - Events | Credit - Porsche Club GB | Url - (https://www.porscheclubgb.com/community/images/latest/silverstone-classic)
+  - Events | Credit - Porsche Club GB | Url - (https://www.porscheclubgb.com/events/2021/september/classics-at-the-castle)
+  - Events | Credit - Kophill Climb | Url - (https://www.kophillclimb.org.uk/wp-content/themes/kophill-climb/assets/img/Kop-Hill-Reworked-logo.png)
+  - Events | Credit - The NEC, Birmingham | Url - (https://www.thenec.co.uk/media/6161/cms_logo_2021.png)
+  - Join-us | Credit - Andre Tan | User Account - @andredantan19 | Url - (https://unsplash.com/photos/7_67OMV3mxA) 
+  - Contact | Credit - Pavan Trikutam | User Account - @ptrikutam | Url - (https://unsplash.com/photos/71CjSSB83Wo)
 
 ### Acknowledgements
 
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
