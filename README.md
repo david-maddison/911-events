@@ -263,31 +263,54 @@ The below tests were performed to check that features and links were all fully o
 ### Browser Compatability
 
 __Google Chrome__
+
 ![Desktop - Chrome](https://github.com/david-maddison/911-events/blob/main/docs/readme/chrome.png?raw=true)
 
 __Microsoft Edge__
+
 ![Desktop - Edge](https://github.com/david-maddison/911-events/blob/main/docs/readme/edge.png?raw=true)
 
 __Mozilla Firefox__
+
 ![Desktop - Firefox](https://github.com/david-maddison/911-events/blob/main/docs/readme/firefox.png?raw=true)
 
 /* MOBILE TO ADD */
 
 ### Code Validation 
 
-- HTML
-  - No errors were returned when passing through the official [W3C Markup Validator]((https://validator.w3.org/#validate_by_uri)) 
-    - ![Home Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/index-validation.png?raw=true)
-    - ![About Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/about-validation.png?raw=true)
-    - ![News Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/news-validation.png?raw=true)
-    - ![Events Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/events-validation.png?raw=true)
-    - ![Join-us Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-validation.png?raw=true)
-    - ![Contact Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/contact-validation.png?raw=true)
-  - Two warnings were found for sections that did not have a H2 to H6 element. However these do not require attention.
+__HTML__
 
-- CSS
-  - No errors were found when passing through the official [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-    - ![Style Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
+No errors were returned when passing through the official [W3C Markup Validator](https://validator.w3.org/#validate_by_uri)
+
+- Home Page
+
+![Home Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/index-validation.png?raw=true)
+
+- About Page
+
+![About Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/about-validation.png?raw=true)
+
+- News Page
+
+![News Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/news-validation.png?raw=true)
+
+- Events Page
+
+![Events Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/events-validation.png?raw=true)
+
+- Join-us Page
+
+![Join-us Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/join-us-validation.png?raw=true)
+
+- Contact Page
+
+![Contact Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/contact-validation.png?raw=true)
+
+__CSS__
+
+No errors were found when passing through the official [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
+
+![Style Page](https://github.com/david-maddison/911-events/blob/main/docs/readme/style-validation.png?raw=true)
 
 ### Responsiveness
 
